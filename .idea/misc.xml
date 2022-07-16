@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Jennifer/PMovilI/Ejercicio23/app/src/main/res/layout/activity_fotografia.xml" value="0.33" />
+        <entry key="..\:/Jennifer/PMovilI/Ejercicio23/app/src/main/res/layout/activity_listar.xml" value="0.25" />
+        <entry key="..\:/Jennifer/PMovilI/Ejercicio23/app/src/main/res/layout/fotografia.xml" value="0.1" />
+        <entry key="..\:/Users/MichelleLobo/AndroidStudioProjects/Ejercicio2-3-master/app/src/main/res/layout/activity_fotografia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MichelleLobo/AndroidStudioProjects/Ejercicio2-3-master/app/src/main/res/layout/activity_listar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MichelleLobo/AndroidStudioProjects/Ejercicio2-3-master/app/src/main/res/layout/fotografia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MichelleLobo/AndroidStudioProjects/TAREAS/Ejercicio2-3-master/app/src/main/res/layout/activity_fotografia.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MichelleLobo/AndroidStudioProjects/TAREAS/Ejercicio2-3-master/app/src/main/res/layout/activity_listar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MichelleLobo/AndroidStudioProjects/TAREAS/Ejercicio2-3-master/app/src/main/res/layout/fotografia.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
